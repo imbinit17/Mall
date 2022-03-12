@@ -4,7 +4,7 @@
 Big Bazaar Billing System - Python GUI using Tkinter (Beginner)
 
 
-Working :-
+Working :-  
 Accepts few customer details :- Customer Name , Customer Contact No. ,Email
 Then accepts items purchased one by one ; the counter guy(user) enters the product Names and prices one by one and hits the "Add to Cart" button
 Then at last when he is done entering all items ,he hits the "Submit" button .
